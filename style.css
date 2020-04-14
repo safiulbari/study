@@ -1,0 +1,52 @@
+body {
+    color: darkslategray;
+}
+
+
+.full-body{
+    margin: 5% 0;
+    padding: 0;
+}
+
+.title {
+    font-family: Aeonik;
+    font-weight: 700;
+    margin-bottom: 56px;
+    font-size: 2.6em;
+
+}
+
+.heading-1{
+
+    font-family: Aeonik;
+    font-weight: bold;
+    font-size: 1.6em;
+    margin: 26px 0px;
+}
+.heading-1 a{
+    color: darkslategray;
+}
+
+.sub {
+    font-size: 1.2em;
+    font-family: Aeonik;
+    font-weight: 500;
+    margin: 0;
+    padding-bottom: 8pt;
+    color: #34A0DF;
+}
+
+.bn {
+    font-family: "Baloo Da 2" !important;
+}
+
+
+
+.text{
+    font-size: 1.2em;
+    font-family: Aeonik;
+    font-weight: 500;
+    margin: 0;
+    padding-bottom: 8pt;
+   
+}
