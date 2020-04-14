@@ -31,6 +31,8 @@ body {
     width: 18px !important;
     position: relative;
     bottom:3.5pt;
+    background-color: yellow;
+
 }
 .title {
     font-family: Aeonik;
